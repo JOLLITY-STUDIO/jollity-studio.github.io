@@ -179,3 +179,15 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Ensure all content is visible by default */
+body, .card, .site-hero {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* Add a fallback for reveal animation */
+.no-js .reveal-hidden {
+  opacity: 1 !important;
+  transform: none !important;
+}
+

@@ -1,6 +1,6 @@
-# JOLLITY STUDIO（卓悦工坊）
+# JOLLITY STUDIO — 卓悦工坊
 
-这是为 `chinajollity.github.io` 仓库创建的静态官网，站点品牌为 **JOLLITY STUDIO（卓悦工坊）**，包含以下内容：
+这是为 `jollity-studio.github.io` 仓库创建的静态官网，站点品牌为 **JOLLITY STUDIO — 卓悦工坊**，包含以下内容：
 
 - `index.html` — 主页
 - `about.html` — 关于页面
@@ -13,7 +13,7 @@
 ## 网站信息
 
 - **官网**: https://jollity-studio.github.io/
-- **GitHub**: https://github.com/chinajollity/chinajollity.github.io
+- **GitHub**: https://github.com/JOLLITY-STUDIO/jollity-studio.github.io
 
 本站使用 Bootstrap 5 CDN 提供响应式布局，采用现代化设计风格，适合作为个人主页或项目站点的起点。
 
