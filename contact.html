@@ -26,25 +26,37 @@
 </nav>
 
 <main class="container my-5">
-  <h1>联系我们</h1>
-  <p>请通过电子邮件与我们联系：<a href="mailto:example@chinajollity.com">example@chinajollity.com</a></p>
+  <div class="row">
+    <div class="col-md-7">
+      <h1>联系我们</h1>
+      <p>请通过电子邮件与我们联系：<a href="mailto:example@chinajollity.com">example@chinajollity.com</a></p>
 
-  <h2>留言（示例表单）</h2>
-  <form>
-    <div class="mb-3">
-      <label class="form-label">姓名</label>
-      <input class="form-control" placeholder="你的姓名">
+      <h2 class="mt-4">留言</h2>
+      <form class="needs-validation" novalidate>
+        <div class="mb-3">
+          <label class="form-label">姓名</label>
+          <input class="form-control" placeholder="你的姓名" required>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">邮箱</label>
+          <input class="form-control" type="email" placeholder="you@example.com" required>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">信息</label>
+          <textarea class="form-control" rows="5" placeholder="写下你的消息..." required></textarea>
+        </div>
+        <button class="btn btn-primary" type="submit">发送（示例）</button>
+      </form>
     </div>
-    <div class="mb-3">
-      <label class="form-label">邮箱</label>
-      <input class="form-control" type="email" placeholder="you@example.com">
+
+    <div class="col-md-5">
+      <div class="p-4 bg-light rounded shadow-sm">
+        <h5>其他方式</h5>
+        <p>邮箱: <a href="mailto:example@chinajollity.com">example@chinajollity.com</a></p>
+        <p>如需真实表单功能，可集成 Formspree 或 Netlify Forms（无需后端）。</p>
+      </div>
     </div>
-    <div class="mb-3">
-      <label class="form-label">信息</label>
-      <textarea class="form-control" rows="4" placeholder="写下你的消息..."></textarea>
-    </div>
-    <button class="btn btn-primary" type="submit">发送（示例）</button>
-  </form>
+  </div>
 </main>
 
 <footer class="py-4 bg-light">
