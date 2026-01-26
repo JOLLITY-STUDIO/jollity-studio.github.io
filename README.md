@@ -1,6 +1,6 @@
-# chinajollity.github.io
+# CHINA JOLLITY STUDIO（华悦工作室）
 
-这是为 `chinajollity.github.io` 仓库创建的简单静态官网骨架，包含以下内容：
+这是为 `chinajollity.github.io` 仓库创建的简单静态官网骨架，站点品牌为 **CHINA JOLLITY STUDIO（华悦工作室）**，包含以下内容：
 
 - `index.html` — 主页
 - `about.html` — 关于页面
