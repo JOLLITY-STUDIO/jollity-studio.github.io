@@ -1,0 +1,6 @@
+# Robots.txt for JOLLITY STUDIO
+
+User-agent: *
+Allow: /
+
+Sitemap: https://chinajollity.github.io/sitemap.xml
