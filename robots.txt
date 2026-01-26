@@ -2,5 +2,7 @@
 
 User-agent: *
 Allow: /
+Disallow: /docs/
 
-Sitemap: https://chinajollity.github.io/sitemap.xml
+Sitemap: https://jollity-studio.github.io/sitemap.xml
+

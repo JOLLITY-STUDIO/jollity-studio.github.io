@@ -7,7 +7,13 @@
 - `contact.html` — 联系页面（含示例表单）
 - `css/styles.css` — 自定义样式（现代科技风格）
 - `assets/` — 网站资源（图标、Logo等）
+- `docs/` — 项目文档
 - `robots.txt` — 搜索引擎爬虫配置
+
+## 网站信息
+
+- **官网**: https://jollity-studio.github.io/
+- **GitHub**: https://github.com/chinajollity/chinajollity.github.io
 
 本站使用 Bootstrap 5 CDN 提供响应式布局，采用现代化设计风格，适合作为个人主页或项目站点的起点。
 
